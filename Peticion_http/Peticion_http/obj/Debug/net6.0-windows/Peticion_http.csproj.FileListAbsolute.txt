@@ -1,0 +1,33 @@
+C:\Users\neo\source\repos\Peticion_http\Peticion_http\bin\Debug\net6.0-windows\Peticion_http.exe
+C:\Users\neo\source\repos\Peticion_http\Peticion_http\bin\Debug\net6.0-windows\Peticion_http.deps.json
+C:\Users\neo\source\repos\Peticion_http\Peticion_http\bin\Debug\net6.0-windows\Peticion_http.runtimeconfig.json
+C:\Users\neo\source\repos\Peticion_http\Peticion_http\bin\Debug\net6.0-windows\Peticion_http.dll
+C:\Users\neo\source\repos\Peticion_http\Peticion_http\bin\Debug\net6.0-windows\Peticion_http.pdb
+C:\Users\neo\source\repos\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\Peticion_http.csproj.AssemblyReference.cache
+C:\Users\neo\source\repos\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\Peticion_http.Form1.resources
+C:\Users\neo\source\repos\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\Peticion_http.csproj.GenerateResource.cache
+C:\Users\neo\source\repos\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\Peticion_http.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neo\source\repos\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\Peticion_http.AssemblyInfoInputs.cache
+C:\Users\neo\source\repos\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\Peticion_http.AssemblyInfo.cs
+C:\Users\neo\source\repos\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\Peticion_http.csproj.CoreCompileInputs.cache
+C:\Users\neo\source\repos\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\Peticion_http.dll
+C:\Users\neo\source\repos\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\refint\Peticion_http.dll
+C:\Users\neo\source\repos\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\Peticion_http.pdb
+C:\Users\neo\source\repos\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\Peticion_http.genruntimeconfig.cache
+C:\Users\neo\source\repos\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\ref\Peticion_http.dll
+C:\Users\neo\Desktop\proyectos c\Peticion_http\Peticion_http\bin\Debug\net6.0-windows\Peticion_http.exe
+C:\Users\neo\Desktop\proyectos c\Peticion_http\Peticion_http\bin\Debug\net6.0-windows\Peticion_http.deps.json
+C:\Users\neo\Desktop\proyectos c\Peticion_http\Peticion_http\bin\Debug\net6.0-windows\Peticion_http.runtimeconfig.json
+C:\Users\neo\Desktop\proyectos c\Peticion_http\Peticion_http\bin\Debug\net6.0-windows\Peticion_http.dll
+C:\Users\neo\Desktop\proyectos c\Peticion_http\Peticion_http\bin\Debug\net6.0-windows\Peticion_http.pdb
+C:\Users\neo\Desktop\proyectos c\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\Peticion_http.Form1.resources
+C:\Users\neo\Desktop\proyectos c\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\Peticion_http.csproj.GenerateResource.cache
+C:\Users\neo\Desktop\proyectos c\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\Peticion_http.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neo\Desktop\proyectos c\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\Peticion_http.AssemblyInfoInputs.cache
+C:\Users\neo\Desktop\proyectos c\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\Peticion_http.AssemblyInfo.cs
+C:\Users\neo\Desktop\proyectos c\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\Peticion_http.csproj.CoreCompileInputs.cache
+C:\Users\neo\Desktop\proyectos c\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\Peticion_http.dll
+C:\Users\neo\Desktop\proyectos c\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\refint\Peticion_http.dll
+C:\Users\neo\Desktop\proyectos c\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\Peticion_http.pdb
+C:\Users\neo\Desktop\proyectos c\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\Peticion_http.genruntimeconfig.cache
+C:\Users\neo\Desktop\proyectos c\Peticion_http\Peticion_http\obj\Debug\net6.0-windows\ref\Peticion_http.dll
