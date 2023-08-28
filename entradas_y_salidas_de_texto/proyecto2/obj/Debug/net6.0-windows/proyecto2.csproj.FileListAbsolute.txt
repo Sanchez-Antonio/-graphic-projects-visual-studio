@@ -1,0 +1,17 @@
+C:\Users\neo\source\repos\proyecto2\proyecto2\bin\Debug\net6.0-windows\proyecto2.exe
+C:\Users\neo\source\repos\proyecto2\proyecto2\bin\Debug\net6.0-windows\proyecto2.deps.json
+C:\Users\neo\source\repos\proyecto2\proyecto2\bin\Debug\net6.0-windows\proyecto2.runtimeconfig.json
+C:\Users\neo\source\repos\proyecto2\proyecto2\bin\Debug\net6.0-windows\proyecto2.dll
+C:\Users\neo\source\repos\proyecto2\proyecto2\bin\Debug\net6.0-windows\proyecto2.pdb
+C:\Users\neo\source\repos\proyecto2\proyecto2\obj\Debug\net6.0-windows\proyecto2.csproj.AssemblyReference.cache
+C:\Users\neo\source\repos\proyecto2\proyecto2\obj\Debug\net6.0-windows\proyecto2.Form1.resources
+C:\Users\neo\source\repos\proyecto2\proyecto2\obj\Debug\net6.0-windows\proyecto2.csproj.GenerateResource.cache
+C:\Users\neo\source\repos\proyecto2\proyecto2\obj\Debug\net6.0-windows\proyecto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neo\source\repos\proyecto2\proyecto2\obj\Debug\net6.0-windows\proyecto2.AssemblyInfoInputs.cache
+C:\Users\neo\source\repos\proyecto2\proyecto2\obj\Debug\net6.0-windows\proyecto2.AssemblyInfo.cs
+C:\Users\neo\source\repos\proyecto2\proyecto2\obj\Debug\net6.0-windows\proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\neo\source\repos\proyecto2\proyecto2\obj\Debug\net6.0-windows\proyecto2.dll
+C:\Users\neo\source\repos\proyecto2\proyecto2\obj\Debug\net6.0-windows\refint\proyecto2.dll
+C:\Users\neo\source\repos\proyecto2\proyecto2\obj\Debug\net6.0-windows\proyecto2.pdb
+C:\Users\neo\source\repos\proyecto2\proyecto2\obj\Debug\net6.0-windows\proyecto2.genruntimeconfig.cache
+C:\Users\neo\source\repos\proyecto2\proyecto2\obj\Debug\net6.0-windows\ref\proyecto2.dll
