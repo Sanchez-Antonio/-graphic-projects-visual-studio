@@ -1,0 +1,5 @@
+C:\Users\neo\Desktop\proyecto\promedio.exe
+C:\Users\neo\Desktop\proyecto\promedio.dll
+C:\Users\neo\Desktop\proyecto\promedio.deps.json
+C:\Users\neo\Desktop\proyecto\promedio.runtimeconfig.json
+C:\Users\neo\Desktop\proyecto\promedio.pdb
