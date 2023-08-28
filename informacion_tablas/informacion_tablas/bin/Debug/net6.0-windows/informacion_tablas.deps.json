@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "informacion_tablas/1.0.0": {
+        "runtime": {
+          "informacion_tablas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "informacion_tablas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
