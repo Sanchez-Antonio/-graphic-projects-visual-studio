@@ -1,0 +1,40 @@
+C:\Users\neo\source\repos\E_1\E_1\bin\Debug\net6.0-windows\E_1.exe
+C:\Users\neo\source\repos\E_1\E_1\bin\Debug\net6.0-windows\E_1.deps.json
+C:\Users\neo\source\repos\E_1\E_1\bin\Debug\net6.0-windows\E_1.runtimeconfig.json
+C:\Users\neo\source\repos\E_1\E_1\bin\Debug\net6.0-windows\E_1.dll
+C:\Users\neo\source\repos\E_1\E_1\bin\Debug\net6.0-windows\E_1.pdb
+C:\Users\neo\source\repos\E_1\E_1\obj\Debug\net6.0-windows\E_1.csproj.AssemblyReference.cache
+C:\Users\neo\source\repos\E_1\E_1\obj\Debug\net6.0-windows\E_1.Form1.resources
+C:\Users\neo\source\repos\E_1\E_1\obj\Debug\net6.0-windows\E_1.Form2.resources
+C:\Users\neo\source\repos\E_1\E_1\obj\Debug\net6.0-windows\E_1.Form3.resources
+C:\Users\neo\source\repos\E_1\E_1\obj\Debug\net6.0-windows\E_1.Form4.resources
+C:\Users\neo\source\repos\E_1\E_1\obj\Debug\net6.0-windows\E_1.Form5.resources
+C:\Users\neo\source\repos\E_1\E_1\obj\Debug\net6.0-windows\E_1.Form6.resources
+C:\Users\neo\source\repos\E_1\E_1\obj\Debug\net6.0-windows\E_1.Form7.resources
+C:\Users\neo\source\repos\E_1\E_1\obj\Debug\net6.0-windows\E_1.csproj.GenerateResource.cache
+C:\Users\neo\source\repos\E_1\E_1\obj\Debug\net6.0-windows\E_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neo\source\repos\E_1\E_1\obj\Debug\net6.0-windows\E_1.AssemblyInfoInputs.cache
+C:\Users\neo\source\repos\E_1\E_1\obj\Debug\net6.0-windows\E_1.AssemblyInfo.cs
+C:\Users\neo\source\repos\E_1\E_1\obj\Debug\net6.0-windows\E_1.csproj.CoreCompileInputs.cache
+C:\Users\neo\source\repos\E_1\E_1\obj\Debug\net6.0-windows\E_1.dll
+C:\Users\neo\source\repos\E_1\E_1\obj\Debug\net6.0-windows\refint\E_1.dll
+C:\Users\neo\source\repos\E_1\E_1\obj\Debug\net6.0-windows\E_1.pdb
+C:\Users\neo\source\repos\E_1\E_1\obj\Debug\net6.0-windows\E_1.genruntimeconfig.cache
+C:\Users\neo\source\repos\E_1\E_1\obj\Debug\net6.0-windows\ref\E_1.dll
+C:\Users\neo\source\repos\E_1\E_1\obj\Debug\net6.0-windows\E_1.Properties.Resources.resources
+C:\Users\neo\Desktop\proyectos c\E_1\E_1\obj\Debug\net6.0-windows\E_1.Form1.resources
+C:\Users\neo\Desktop\proyectos c\E_1\E_1\obj\Debug\net6.0-windows\E_1.Form2.resources
+C:\Users\neo\Desktop\proyectos c\E_1\E_1\obj\Debug\net6.0-windows\E_1.Form3.resources
+C:\Users\neo\Desktop\proyectos c\E_1\E_1\obj\Debug\net6.0-windows\E_1.Form4.resources
+C:\Users\neo\Desktop\proyectos c\E_1\E_1\obj\Debug\net6.0-windows\E_1.Form5.resources
+C:\Users\neo\Desktop\proyectos c\E_1\E_1\obj\Debug\net6.0-windows\E_1.Form6.resources
+C:\Users\neo\Desktop\proyectos c\E_1\E_1\obj\Debug\net6.0-windows\E_1.Form7.resources
+C:\Users\neo\Desktop\proyectos c\E_1\E_1\obj\Debug\net6.0-windows\E_1.Properties.Resources.resources
+C:\Users\neo\Desktop\proyectos c\E_1\E_1\obj\Debug\net6.0-windows\E_1.csproj.GenerateResource.cache
+C:\Users\neo\Desktop\proyectos c\E_1\E_1\obj\Debug\net6.0-windows\E_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neo\Desktop\proyectos c\E_1\E_1\obj\Debug\net6.0-windows\E_1.AssemblyInfoInputs.cache
+C:\Users\neo\Desktop\proyectos c\E_1\E_1\obj\Debug\net6.0-windows\E_1.AssemblyInfo.cs
+C:\Users\neo\Desktop\proyectos c\E_1\E_1\obj\Debug\net6.0-windows\E_1.csproj.CoreCompileInputs.cache
+C:\Users\neo\Desktop\proyectos c\E_1\E_1\obj\Debug\net6.0-windows\E_1.dll
+C:\Users\neo\Desktop\proyectos c\E_1\E_1\obj\Debug\net6.0-windows\refint\E_1.dll
+C:\Users\neo\Desktop\proyectos c\E_1\E_1\obj\Debug\net6.0-windows\E_1.pdb
