@@ -1,0 +1,17 @@
+C:\Users\neo\source\repos\programa_inicial_basico\programa_inicial_basico\bin\Debug\net6.0-windows\programa_inicial_basico.exe
+C:\Users\neo\source\repos\programa_inicial_basico\programa_inicial_basico\bin\Debug\net6.0-windows\programa_inicial_basico.deps.json
+C:\Users\neo\source\repos\programa_inicial_basico\programa_inicial_basico\bin\Debug\net6.0-windows\programa_inicial_basico.runtimeconfig.json
+C:\Users\neo\source\repos\programa_inicial_basico\programa_inicial_basico\bin\Debug\net6.0-windows\programa_inicial_basico.dll
+C:\Users\neo\source\repos\programa_inicial_basico\programa_inicial_basico\bin\Debug\net6.0-windows\programa_inicial_basico.pdb
+C:\Users\neo\source\repos\programa_inicial_basico\programa_inicial_basico\obj\Debug\net6.0-windows\programa_inicial_basico.csproj.AssemblyReference.cache
+C:\Users\neo\source\repos\programa_inicial_basico\programa_inicial_basico\obj\Debug\net6.0-windows\programa_inicial_basico.Form1.resources
+C:\Users\neo\source\repos\programa_inicial_basico\programa_inicial_basico\obj\Debug\net6.0-windows\programa_inicial_basico.csproj.GenerateResource.cache
+C:\Users\neo\source\repos\programa_inicial_basico\programa_inicial_basico\obj\Debug\net6.0-windows\programa_inicial_basico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neo\source\repos\programa_inicial_basico\programa_inicial_basico\obj\Debug\net6.0-windows\programa_inicial_basico.AssemblyInfoInputs.cache
+C:\Users\neo\source\repos\programa_inicial_basico\programa_inicial_basico\obj\Debug\net6.0-windows\programa_inicial_basico.AssemblyInfo.cs
+C:\Users\neo\source\repos\programa_inicial_basico\programa_inicial_basico\obj\Debug\net6.0-windows\programa_inicial_basico.csproj.CoreCompileInputs.cache
+C:\Users\neo\source\repos\programa_inicial_basico\programa_inicial_basico\obj\Debug\net6.0-windows\programa_inicial_basico.dll
+C:\Users\neo\source\repos\programa_inicial_basico\programa_inicial_basico\obj\Debug\net6.0-windows\refint\programa_inicial_basico.dll
+C:\Users\neo\source\repos\programa_inicial_basico\programa_inicial_basico\obj\Debug\net6.0-windows\programa_inicial_basico.pdb
+C:\Users\neo\source\repos\programa_inicial_basico\programa_inicial_basico\obj\Debug\net6.0-windows\programa_inicial_basico.genruntimeconfig.cache
+C:\Users\neo\source\repos\programa_inicial_basico\programa_inicial_basico\obj\Debug\net6.0-windows\ref\programa_inicial_basico.dll
